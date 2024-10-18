@@ -25,5 +25,5 @@ If you enter an amount less than the actual bill, you might get a friendly remin
 
 ## Usage
 
-1. Clone the repository: `git clone https://github.com/your-username/CashFlow-Manager.git`
+1. Clone the repository: `https://github.com/Bharat-Dua/EasyChange-Tracker.git`
 2. Open the `index.html` file in your preferred browser.
